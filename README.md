@@ -1,4 +1,4 @@
-# 📊 WTD Analytics & Trend Tracker
+# 📊 2025 WTD Analytics & Trend Tracker Dashboard
 
 _A SQL + Python + Power BI case study on booking trend forecasting & revenue optimization_  
 _Created for learning and portfolio display purposes_
