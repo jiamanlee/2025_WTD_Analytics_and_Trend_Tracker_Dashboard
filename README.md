@@ -35,7 +35,7 @@ _Filters allow slicing by date range, product type, weekday, and ship._
 _The dashboard helps decision-makers monitor booking pace vs expectations._
 
 ### 🔹 Business Insights by Product & Weekday  
-<img width="100%" alt="Business Insights Analytics" src="https://github.com/user-attachments/assets/0c8b80f0-eb57-4c6f-99cd-b0c4ba9d261c" />
+<img width="100%" alt="Business Insights Analytics" src="screenshot/Screenshot -  Business Insights & Analytics.png" />
 
 _Insight: Caribbean products build more evenly across weekdays, while Europe ramps up near weekends.  
 Alaska shows flatter, B2B-like behavior._
