@@ -29,7 +29,7 @@ focused on how to forecast booking performance, optimize revenue, and monitor pr
 ## Dashboard Preview
 
 ### 🔹 WTD Analytics & Tracker Dashboard  
-<img width="100%" alt="WTD Dashboard" src="https://github.com/user-attachments/assets/a05ec09c-4ad4-45c6-b518-20419356ff2c" />
+<img width="100%" alt="WTD Dashboard" src="screenshot/Screenshot - WTD Analytics & Trend Tracker Dashboard.png" />
 
 _Filters allow slicing by date range, product type, weekday, and ship._  
 _The dashboard helps decision-makers monitor booking pace vs expectations._
